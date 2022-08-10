@@ -41,6 +41,7 @@
 	text-align: center;
 	
 }
+/* media queries con lo de grid NO ES NECESARIO */
 
 @media (max-width: 560px) {
 	.cajita{
